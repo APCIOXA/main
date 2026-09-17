@@ -20,11 +20,13 @@
 По запросу программы необходимо последовательно ввести три числа — длины первой, второй и третьей стороны треугольника.
 
 ## Результаты тестирования
-Тест 1
+Тест 1  
+
 <img width="565" height="175" alt="image" src="https://github.com/user-attachments/assets/45026834-eeaf-4820-8183-7e836cf35666" />
 
 
-Тест 2
+Тест 2  
+
 <img width="572" height="176" alt="image" src="https://github.com/user-attachments/assets/85d6fa2c-77a6-41f9-be4a-360a44992fd1" />
 
 
@@ -61,10 +63,12 @@
 По запросу программы необходимо ввести целое число (год).
 
 ## Результаты тестирования
-Тест 1
+Тест 1  
+
 <img width="445" height="67" alt="image" src="https://github.com/user-attachments/assets/0ec0294e-8ede-46ec-b480-8bb5b5b09857" />
 
 
-Тест 2
+Тест 2  
+
 <img width="449" height="70" alt="image" src="https://github.com/user-attachments/assets/a11a60ab-e66f-4369-ae60-bbc6f165bd46" />
 
